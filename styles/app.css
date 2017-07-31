@@ -1,0 +1,193 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.titlebar-wrapper {
+    height: 50px;
+    width: 100%;
+    background: #ff6200;
+}
+
+.font-orange {
+    color: #a34800;
+}
+
+.font-white {
+    color: #fff;
+}
+
+.padding-horizontal {
+    padding: 0 10px;
+}
+
+.padding {
+    padding: 15px;
+}
+
+.titlebar-content {
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+h5, h2, h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-wrapper {
+    height: 120px;
+    background: #f1f1f1;
+}
+
+.logo-text {
+    font-size: 40px;
+    color: #000;
+    line-height: 120px;
+}
+
+.logo-text > span {
+    color: #ff6200;
+}
+
+.nav-item {
+    font-size: 120%;
+    margin: 0 10px;
+    padding: 5px 0;
+    color: #545454;
+}
+
+.nav-item-wrapper {
+    line-height: 120px;
+}
+
+.navitem-active {
+    color: #000;
+    border-bottom: 4px solid #ff6200;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font-black {
+    color: #000 !important;
+}
+
+.breadcrumbs {
+    padding: 25px 0;
+    color: #c2c2c2;
+    text-transform: capitalize;
+}
+
+.contact-text {
+    color: #ff6200;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.lorem-ipsum {
+    color: #a7a7a7;
+}
+
+.contact-reach-wrapper {
+    margin-top: 25px;
+}
+
+.contact-header, .reach-header {
+    color: #ff6200;
+    border-bottom: 5px solid #585858;
+    padding-bottom: 8px;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.padding-right {
+    padding-right: 40px !important;
+}
+
+.input-field {
+    background: #eee;
+    margin: 8px 0;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+}
+
+.input-field:focus {
+    outline: none;
+    border: 1px solid #ff6200;
+}
+
+.input-phone {
+    width: 95%;
+}
+
+.submit {
+    color: #fff;
+    background: #ff6200;
+    border: none;
+    padding: 8px 20px;
+    margin: 2px 0;
+    display: inline-block;
+}
+
+form {
+    margin-top: 10px;
+}
+
+.address {
+    color: #767676;
+    padding: 15px 0;
+}
+
+.social-wrapper {
+    margin-top: 50px;
+}
+
+.fa {
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+    text-align: center;
+    background: #bbbbbb;
+    color: #fff;
+}
+
+.fa-facebook {
+    background: #555 !important;
+}
+
+.dropdown {
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #a3a3a3;
+    position: absolute;
+    left: -40%;
+    top: 50px;
+}
+
+.dropdown > ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    line-height: 2;
+}
+
+.dropdown > ul > li {
+    font-size: 84%;
+    min-width: 90px;
+    color: #545454;
+}
+
+.relative {
+    position: relative;
+}
+
+.dropdown2 {
+    margin-left: 140%;
+    top: 50%;
+}
