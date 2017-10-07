@@ -1,0 +1,17 @@
+{
+  "name": "Coalition-Technologies-Los-Angeles---Test",
+  "homepage": "https://github.com/jithinbalakrishnan/Coalition-Technologies-Los-Angeles---Test",
+  "authors": [
+    "jithinbalakrishnan <jithinbalakrishnan00@gmail.com>"
+  ],
+  "description": "Template for Coaltion Technologies Los Angels",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
